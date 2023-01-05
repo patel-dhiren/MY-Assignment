@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="txt_intro">Welcome to Tops Technologies</string>
+</resources>
